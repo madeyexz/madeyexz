@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeyexz&label=Profile%20views&color=0e75b6&style=flat" alt="madeyexz" /> </p>
 
-- 🔭 I’m currently working on [AI tool for TOEFL preperation](https://github.com/madeyexz/toefl_ai_tool_for_listening_and_speaking)
+- 🔭 I’m currently working on [AI tool for TOEFL preparation](https://github.com/madeyexz/toefl_ai_tool_for_listening_and_speaking)
 
 - 👨‍💻 All of my projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
 
-- 📝 I regularly write articles on [https://ianhsiao.notion.so/](https://ianhsiao.notion.so/)
+- 📝 I regularly write articles on [My Notion Page](https://ianhsiao.notion.so/)
 
 - 📫 How to reach me **ian.xiao@stu.pku.edu.cn**
 
-- ⚡ Fun fact **I am an avid frisbee player**
+- ⚡ Fun fact: **I am an avid frisbee player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
