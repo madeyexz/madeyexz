@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Hsiao</h1>
-<h3 align="center">PKU Applied Physics Undergrad who's interested in AI application</h3>
+<h3 align="center">A PKU Physics Undergrad interested in AI Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeyexz&label=Profile%20views&color=0e75b6&style=flat" alt="madeyexz" /> </p>
 
-- 🔭 I’m currently working on [AI tool for TOEFL preparation](https://github.com/madeyexz/toefl_ai_tool_for_listening_and_speaking)
+- 🔭 I’m currently working on [a AI tool for TOEFL preparation](https://github.com/madeyexz/toefl_ai_tool_for_listening_and_speaking)
 
 - 👨‍💻 All of my projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ian.xiao@stu.pku.edu.cn**
 
-- ⚡ Fun fact: **I am an avid frisbee player**
+- ⚡ Fun fact: I am an avid frisbee player
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
