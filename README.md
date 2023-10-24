@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ian Hsiao</h1>
-<h3 align="center">A PKU Physics Undergrad interested in AI Applications</h3>
+<h1 align="center">Hi 👋, this is Ian Hsiao</h1>
+<h3 align="center">This is where he explores his interest in technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeyexz&label=Profile%20views&color=0e75b6&style=flat" alt="madeyexz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
+-  🔭 He's interested in AI applications like LLMs, CV, or AI in general. And he's looking for opportunities to get his hands dirty on relevent projects.
 
-- 📝 I sometimes write articles on [My Notion Page](https://ianhsiao.notion.so/)
+- 👨‍💻 Some of his projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
 
-- 📫 How to reach me **ian.xiao@stu.pku.edu.cn**
+- 📝 He sometimes writes articles on [My Notion Page](https://ianhsiao.notion.so/)
 
-- ⚡ Fun fact: I am an avid frisbee player
+- 📫 You can reach him at **ian.xiao@stu.pku.edu.cn**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact: He is an avid frisbee player
+
+<h3 align="left">Connect with him:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ian-hsiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian hsiao" height="30" width="40" /></a>
 </p>
