@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of his projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
 
-- 📝 He sometimes writes articles on [My Notion Page](https://ianhsiao.notion.so/)
+- 📝 He sometimes writes articles on his [Notion Page](https://ianhsiao.notion.so/)
 
 - 📫 You can reach him at **ian.xiao@stu.pku.edu.cn**
 
