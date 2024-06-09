@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeyexz&label=Profile%20views&color=0e75b6&style=flat" alt="madeyexz" /> </p>
 
--  🔭 He's interested in AI applications like LLMs, CV, or AI in general. And he's looking for opportunities to get his hands dirty on relevent projects.
-
 - 👨‍💻 Some of his projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
 
-- 📝 He sometimes writes articles on his [Notion Page](https://ianhsiao.notion.so/)
+- 📝 He sometimes writes articles on his [blog](https://ianhsiao.xyz/)
 
-- 📫 You can reach him at **ian.xiao@stu.pku.edu.cn**
+- 📫 You can reach him at **ian.xiao@hotmail.com**
 
 - ⚡ Fun fact: He is an avid frisbee player
 
@@ -25,4 +23,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyexz&show_icons=true&locale=en" alt="madeyexz" /></p>
-
