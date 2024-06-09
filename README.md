@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeyexz&label=Profile%20views&color=0e75b6&style=flat" alt="madeyexz" /> </p>
 
-- 👨‍💻 Some of his projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/)
+- 👨‍💻 Some of his projects are available at [https://github.com/madeyexz/](https://github.com/madeyexz/).
 
-- 📝 He sometimes writes articles on his [blog](https://ianhsiao.xyz/)
+- 📝 He sometimes writes on his [blog](https://ianhsiao.xyz/).
 
-- 📫 You can reach him at **ian.xiao@hotmail.com**
+- 📫 You can reach his email [here](mailto:ian.xiao@hotmail.com).
 
 - ⚡ Fun fact: He is an avid frisbee player
 
