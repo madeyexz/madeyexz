@@ -21,7 +21,7 @@ Currently working as an intern at his favorite startup, [Heptabase](https://www.
 
 <h3 align="left">Tools & Software</h3>
 
-[![Heptabase](https://img.shields.io/badge/Heptabase-FFFFFF?style=for-the-badge&logo=heptabase&logoColor=black)](https://heptabase.com/)
+[![Heptabase](https://img.shields.io/badge/Heptabase-000000?style=for-the-badge&logo=heptabase&logoColor=white)](https://heptabase.com/)
 [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black)](https://www.figma.com/)
 [![iTerm2](https://img.shields.io/badge/iTerm2-FFFFFF?style=for-the-badge&logo=iterm2&logoColor=black)](https://iterm2.com/)
