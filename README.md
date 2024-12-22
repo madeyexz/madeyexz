@@ -1,26 +1,16 @@
 <h1 align="center">Ian Hsiao</h1>
-<h3 align="left">This is where he explores his interest in technologies.</h3>
 
-- 🚀 Currently working as an intern at his favorite startup, [Heptabase](https://www.heptabase.com/).
-
-- 👨‍💻 His side projects are mostly born out of necessity (to save time) or for fun, and are available on this github pages.
-
-- 📝 He writes on his [blog](https://ianhsiao.xyz/).
-
-- 📫 You can reach his email [here](mailto:ian.xiao@hotmail.com).
-
-- ⚡ Fun fact: He is an avid frisbee player
-
+Currently working as an intern at his favorite startup, [Heptabase](https://www.heptabase.com/).
 
 
 <h3 align="left">Programming & Development</h3>
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.zsh.org/)
@@ -31,7 +21,7 @@
 
 <h3 align="left">Tools & Software</h3>
 
-[![Heptabase](https://img.shields.io/badge/Heptabase-000000?style=for-the-badge&logo=heptabase&logoColor=white)](https://heptabase.com/)
+[![Heptabase](https://img.shields.io/badge/Heptabase-FFFFFF?style=for-the-badge&logo=heptabase&logoColor=black)](https://heptabase.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com/)
@@ -46,18 +36,19 @@
 
 <h3 align="left">Operating Systems</h3>
 
+[![macOS](https://img.shields.io/badge/macOS-FFF?style=for-the-badge&logo=apple&logoColor=black)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
 <h3 align="left">AI Tools</h3>
 
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
-[![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-C8BFA9?style=for-the-badge&logo=anthropic&logoColor=black)](https://www.anthropic.com/claude)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-2E3439?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
+[![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyexz&show_icons=true&locale=en" alt="madeyexz" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyexz&show_icons=true&locale=en" alt="madeyexz" /></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madeyexz&style=flat&color=0e75b6" alt="Profile Views" />
-</p>
+</p> -->
