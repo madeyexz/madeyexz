@@ -1,1 +1,1 @@
-check my website for who i am -> [ianhsiao.me](https://ianhsiao.me/about)
+check my website for [who i am](https://ianhsiao.me/about) and [what i worked on](https://www.ianhsiao.me/work)
